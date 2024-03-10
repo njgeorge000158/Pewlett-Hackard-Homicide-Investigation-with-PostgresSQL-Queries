@@ -29,30 +29,30 @@ To ensure data integrity and conceptualize the data set, I run the queries in my
 To derive a short list of suspects I start with broad queries and work my way down to narrow ones.  This is the list of my initial five questions to the Postgres Database and the results.
 
 1.1	Who are the Department Managers who have access to buildings after hours as well as alarm codes?
-<img width="1155" alt="homicide_investigation_depatment_managers_query1" src="https://github.com/njgeorge000158/Pewlett-Hackard-Homicide-Investigation-with-SQL-Queries/assets/137228821/ae6b8bcf-ec8a-4836-8c13-c5e3d6b23ce9">
+<img width="1155" alt="homicide_investigation_employees_query1" src="https://github.com/njgeorge000158/Pewlett-Hackard-Homicide-Investigation-with-SQL-Queries/assets/137228821/53ae4115-99d8-42be-b5c0-030fffab4b76">
 
 1.2 Who are the employees hired in 1986?
-<img width="1055" alt="HomicideInvestigationEmployeesQuery2" src="https://github.com/njgeorge000158/Homicide-Investigation-with-SQL-Queries/assets/137228821/ad726132-750b-471d-9634-67327d54b18f">
+<img width="1207" alt="homicide_investigation_employees_query2" src="https://github.com/njgeorge000158/Pewlett-Hackard-Homicide-Investigation-with-SQL-Queries/assets/137228821/f041724d-b464-42c4-b1b2-73af2381ee94">
 
 1.3 Who are the employees with the first name, Hercules, and a last name starting with the letter, B?
-<img width="1066" alt="HomicideInvestigationEmployeesQuery3" src="https://github.com/njgeorge000158/Homicide-Investigation-with-SQL-Queries/assets/137228821/4ebb5eae-fe99-4a05-a23f-6ce2265e1a47">
+<img width="1040" alt="homicide_investigation_employees_query3" src="https://github.com/njgeorge000158/Pewlett-Hackard-Homicide-Investigation-with-SQL-Queries/assets/137228821/dff1593f-5a7e-4db1-b527-9fe1acf63f43">
 
 1.4 Who are the employees in the Sales Department?
-<img width="1067" alt="HomicideInvestigationEmployeesQuery5" src="https://github.com/njgeorge000158/Homicide-Investigation-with-SQL-Queries/assets/137228821/b03bd479-05a6-4961-9e51-42ffce71ca7a">
+<img width="1139" alt="homicide_investigation_employees_query4" src="https://github.com/njgeorge000158/Pewlett-Hackard-Homicide-Investigation-with-SQL-Queries/assets/137228821/5ed7e267-8498-4c34-a618-6fb2f610f3ae">
 
 1.5 Who are the employees in the Sales and Development Departments?
-<img width="1064" alt="HomicideInvestigationEmployeesQuery6" src="https://github.com/njgeorge000158/Homicide-Investigation-with-SQL-Queries/assets/137228821/034b2fa8-2d6b-42d3-8741-456348f838a4">
+<img width="1086" alt="homicide_investigation_employees_query5" src="https://github.com/njgeorge000158/Pewlett-Hackard-Homicide-Investigation-with-SQL-Queries/assets/137228821/ffe2cfd5-df73-4b34-bd12-ff2a2f28d427">
 
 Although accurately incorporating case details, the initial queries produced too many hits, so I combine criteria to reduce the number of possible suspects.
 
 2.1 Who are the employees with a first name, Hercules, and a last name starting with the letter, B, whom the company hired in 1986?
-<img width="1154" alt="HomicideInvestigationSuspectsQuery1" src="https://github.com/njgeorge000158/Homicide-Investigation-with-SQL-Queries/assets/137228821/5c7f972f-5436-4053-9714-d31c94d32ca3">
+<img width="1126" alt="homicide_investigation_suspects_query1" src="https://github.com/njgeorge000158/Pewlett-Hackard-Homicide-Investigation-with-SQL-Queries/assets/137228821/b8eb9d65-7c09-4e75-813d-78095d353131">
 
 2.2 Which employees were Department Managers in Sales or Development?
-<img width="1065" alt="HomicideInvestigationSuspectsQuery2" src="https://github.com/njgeorge000158/Homicide-Investigation-with-SQL-Queries/assets/137228821/379863bc-bece-46be-8bf7-b7a7ca44a98e">
+<img width="975" alt="homicide_investigation_suspects_query2" src="https://github.com/njgeorge000158/Pewlett-Hackard-Homicide-Investigation-with-SQL-Queries/assets/137228821/7e69f6bb-4317-4129-97a5-5de85d0317be">
 
 2.3 Which employees were men, hired in 1986, and were Department Managers in Sales or Development?
-<img width="1066" alt="HomicideInvestigationSuspectsQuery3" src="https://github.com/njgeorge000158/Homicide-Investigation-with-SQL-Queries/assets/137228821/0f840108-fb47-412b-92d1-a465adb2ed36">
+<img width="974" alt="homicide_investigation_suspects_query3" src="https://github.com/njgeorge000158/Pewlett-Hackard-Homicide-Investigation-with-SQL-Queries/assets/137228821/ecb3f736-628a-4f8e-b083-155dd52fb101">
 
 From this analysis, I have two suspects for my supervisor: Hercules Benzmuller, an engineer in the Production Department; and Hauke Zhang, a manager in the Sales Department.
 
