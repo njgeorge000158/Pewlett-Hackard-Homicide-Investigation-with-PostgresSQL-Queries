@@ -8,7 +8,7 @@ From the findings and the initial Missing and Unidentified Persons Report, these
 
 To produce some leads for the case, my supervisor asked me to create a suspect list from the only company information available from that period: a legacy employee database in the form of six CSV files. Upon receiving the files, I study their structure and design a series of database tables. To implement my design in a Postgres Database, I execute my SQL script, create_table_schemata.sql, with the Postgres Administrative Tool, pgAdmin4.  To upload the CSV files into the database, I again use pgAdmin4.
 
-<img width="1562" alt="PewlettHackardHomicideInvestigationERD" src="https://github.com/njamesgeorge1223/Pewlett-Hackard-Homicide-Investigation-with-SQL-Queries/assets/152452572/4d4f849c-2d5f-4fce-8d46-202e5b734fe1">
+![pewlett_hackard_entity_relationship_diagram](https://github.com/njgeorge000158/Pewlett-Hackard-Homicide-Investigation-with-SQL-Queries/assets/137228821/42bf8727-9139-4d90-b15a-a9766e2abea5)
 
 To ensure data integrity and conceptualize the data set, I run the queries in my SQL script, data_integrity_queries.sql.  From the results, I conclude that the data in the various tables are consistent with each other and reveal the following facts about Pewlett Hackard from 1985 to 2000:
 
