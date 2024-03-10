@@ -29,7 +29,7 @@ To ensure data integrity and conceptualize the data set, I run the queries in my
 To derive a short list of suspects I start with broad queries and work my way down to narrow ones.  This is the list of my initial five questions to the Postgres Database and the results.
 
 1.1	Who are the Department Managers who have access to buildings after hours as well as alarm codes?
-<img width="1150" alt="HomicideInvestigationManagersQuery1" src="https://github.com/njgeorge000158/Homicide-Investigation-with-SQL-Queries/assets/137228821/47907ba5-2d00-4406-8089-043a9f4462a2">
+<img width="1155" alt="homicide_investigation_depatment_managers_query1" src="https://github.com/njgeorge000158/Pewlett-Hackard-Homicide-Investigation-with-SQL-Queries/assets/137228821/ae6b8bcf-ec8a-4836-8c13-c5e3d6b23ce9">
 
 1.2 Who are the employees hired in 1986?
 <img width="1055" alt="HomicideInvestigationEmployeesQuery2" src="https://github.com/njgeorge000158/Homicide-Investigation-with-SQL-Queries/assets/137228821/ad726132-750b-471d-9634-67327d54b18f">
