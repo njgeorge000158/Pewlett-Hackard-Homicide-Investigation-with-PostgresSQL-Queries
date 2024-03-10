@@ -196,8 +196,6 @@ pgAdmin4, Postgres
 
   &emsp; |&rarr; [./images/db_integrity_employees_query26.png](./images/db_integrity_employees_query26.png)
 
-  &emsp; |&rarr; [./images/homicide_investigation_depatment_managers_query1.png](./images/homicide_investigation_depatment_managers_query1.png)
-
   &emsp; |&rarr; [./images/homicide_investigation_employees_query1.png](./images/homicide_investigation_employees_query1.png)
 
   &emsp; |&rarr; [./images/homicide_investigation_employees_query2.png](./images/homicide_investigation_employees_query2.png)
@@ -205,6 +203,8 @@ pgAdmin4, Postgres
   &emsp; |&rarr; [./images/homicide_investigation_employees_query3.png](./images/homicide_investigation_employees_query3.png)
 
   &emsp; |&rarr; [./images/homicide_investigation_employees_query4.png](./images/homicide_investigation_employees_query4.png)
+
+  &emsp; |&rarr; [./images/homicide_investigation_employees_query5.png](./images/homicide_investigation_employees_query5.png)
 
   &emsp; |&rarr; [./images/homicide_investigation_suspects_query1.png](./images/homicide_investigation_suspects_query1.png)
 
