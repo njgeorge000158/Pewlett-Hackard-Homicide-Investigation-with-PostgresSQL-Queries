@@ -1,4 +1,4 @@
-![homicide](https://github.com/njgeorge000158/Pewlett-Hackard-Homicide-Investigation-with-PostgresSQL-Queries/assets/137228821/66bf0733-6868-4a2c-bddd-eb4e5282ad5c)
+![homicide](https://github.com/njgeorge000158/Pewlett-Hackard-Homicide-Investigation-with-PostgresSQL-Queries/assets/137228821/64a64c35-126f-4886-a0f3-ecb80294004b)
 
 # Pewlett Hackard Homicide Investigation
 ----
