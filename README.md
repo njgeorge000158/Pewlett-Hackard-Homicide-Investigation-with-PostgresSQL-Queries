@@ -1,7 +1,7 @@
 ![homicide](https://github.com/njgeorge000158/Pewlett-Hackard-Homicide-Investigation-with-PostgresSQL-Queries/assets/137228821/64a64c35-126f-4886-a0f3-ecb80294004b)
 
 # **Cold Case: The Murder of Magdalena Krider**
-# *A PostgreSQL Database Investigation into a 27-Year-Old Homicide*
+## *A PostgreSQL Database Investigation into a 27-Year-Old Homicide*
 
 ---
 
